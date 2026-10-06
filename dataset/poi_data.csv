@@ -1,0 +1,69 @@
+poi,destination,category,description,rating,cost,visit_time_hours,latitude,longitude
+Bangalore Palace,Bengaluru,"History, Architecture",Historic palace known for Tudor-style architecture and royal heritage,4.3,300,2.0,12.9988,77.5921
+Vidhana Soudha,Bengaluru,"Architecture, History",Major Bengaluru landmark known for distinctive governmental architecture,4.4,0,1.0,12.9796,77.5907
+Tipu Sultan's Summer Palace,Bengaluru,"History, Architecture, Culture",Historic wooden palace associated with Tipu Sultan and Indo-Islamic architecture,4.4,30,1.5,12.9592,77.5735
+Lalbagh Botanical Garden,Bengaluru,"Nature, Relaxation","Large botanical garden with diverse plants, glasshouse and walking areas",4.5,40,2.0,12.9507,77.5848
+Cubbon Park,Bengaluru,"Nature, Relaxation","Large central park suited for walking, greenery and relaxation",4.4,0,2.0,12.9763,77.5929
+Visvesvaraya Industrial and Technological Museum,Bengaluru,"Science, Education, Family",Science museum with interactive exhibits and technology displays,4.5,100,2.0,12.9755,77.5997
+ISKCON Temple Bengaluru,Bengaluru,"Culture, Architecture",Large temple complex combining traditional and modern architectural elements,4.5,0,1.5,13.0098,77.5511
+Bannerghatta Biological Park,Bengaluru,"Nature, Family, Adventure","Wildlife park with zoo, safari and conservation attractions",4.3,400,4.0,12.8005,77.577
+Ulsoor Lake,Bengaluru,"Nature, Relaxation",Urban lake suitable for boating and a relaxed outing,4.2,50,1.5,12.9818,77.6286
+Commercial Street,Bengaluru,"Shopping, Culture, Food","Busy shopping street with local stores, clothing and food",4.3,500,2.0,12.9828,77.6087
+Charminar,Hyderabad,"History, Culture, Architecture",Historic monument and iconic symbol of Hyderabad,4.5,50,1.5,17.3616,78.4747
+Golconda Fort,Hyderabad,"History, Architecture","Historic fort known for architecture, acoustics and heritage",4.6,25,2.5,17.3833,78.4011
+Salar Jung Museum,Hyderabad,"History, Art, Culture","Museum with historic art, manuscripts and collections",4.5,50,2.0,17.3713,78.4804
+Chowmahalla Palace,Hyderabad,"History, Culture, Architecture",Historic palace complex with royal architecture,4.4,100,1.5,17.3578,78.4717
+Hussain Sagar,Hyderabad,"Nature, Relaxation",Large lake with boating and leisure activities,4.3,0,1.5,17.4239,78.4738
+Ramoji Film City,Hyderabad,"Entertainment, Family",Large film studio complex with attractions and tours,4.4,1200,5.0,17.2543,78.6808
+Laad Bazaar,Hyderabad,"Shopping, Culture",Traditional market near Charminar known for bangles and local shopping,4.3,0,1.5,17.361,78.472
+Birla Mandir Hyderabad,Hyderabad,"Culture, Architecture, Relaxation",Hilltop temple with white marble architecture and city views,4.5,0,1.5,17.4062,78.4691
+Nehru Zoological Park,Hyderabad,"Nature, Family",Large zoo with wildlife exhibits and family attractions,4.2,50,4.0,17.3494,78.451
+Banjara Hills Food Street,Hyderabad,"Food, Shopping",Popular area for local food and dining experiences,4.2,500,2.0,17.4156,78.4347
+Amber Fort,Jaipur,"History, Architecture",Historic hill fort with grand architecture and courtyards,4.7,550,3.0,26.9855,75.8513
+City Palace,Jaipur,"History, Culture",Royal palace complex with museums and courtyards,4.6,300,2.0,26.9258,75.8237
+Hawa Mahal,Jaipur,"History, Architecture",Iconic palace facade and historic landmark,4.5,200,1.0,26.9239,75.8267
+Jantar Mantar Jaipur,Jaipur,"Science, History",Historic astronomical observatory with large instruments,4.5,200,1.5,26.9247,75.8246
+Nahargarh Fort,Jaipur,"History, Nature",Hill fort offering views of Jaipur and surrounding landscape,4.5,200,2.0,26.9368,75.8156
+Jal Mahal,Jaipur,"Architecture, Nature, Photography",Palace located in Man Sagar Lake and popular for scenic views,4.4,0,1.0,26.9537,75.8463
+Albert Hall Museum,Jaipur,"History, Art, Culture","Museum displaying art, crafts and historical collections",4.5,100,2.0,26.9117,75.819
+Patrika Gate,Jaipur,"Architecture, Culture, Photography",Colorful architectural landmark and photography location,4.5,0,1.0,26.8395,75.805
+Baga Beach,Goa,"Beach, Relaxation, Adventure","Popular beach for relaxation, water activities and nightlife",4.3,0,2.5,15.5557,73.7517
+Basilica of Bom Jesus,Goa,"History, Culture, Architecture",Historic church and UNESCO heritage site,4.5,0,1.5,15.5009,73.9118
+Dudhsagar Falls,Goa,"Nature, Adventure",Scenic waterfall surrounded by forest and natural landscapes,4.6,500,5.0,15.3144,74.3144
+Fort Aguada,Goa,"History, Architecture, Beach",Historic Portuguese fort overlooking the Arabian Sea,4.5,0,2.0,15.492,73.773
+Calangute Beach,Goa,"Beach, Family, Relaxation",Popular coastal destination with water activities and restaurants,4.2,0,2.5,15.5439,73.7553
+Chapora Fort,Goa,"History, Nature, Photography",Hilltop fort with coastal views and historic ruins,4.5,0,1.5,15.6047,73.7397
+Fontainhas,Goa,"Culture, Architecture, Photography",Historic Latin Quarter known for colorful Portuguese-style houses,4.5,0,2.0,15.4959,73.8278
+Palolem Beach,Goa,"Beach, Relaxation, Nature",Scenic beach known for calm waters and relaxed atmosphere,4.5,0,3.0,15.01,74.0232
+Fort Kochi,Kochi,"History, Culture, Food",Historic coastal area with heritage buildings and local food,4.5,0,2.5,9.9658,76.2421
+Mattancherry Palace,Kochi,"History, Art, Culture",Historic palace with murals and cultural exhibits,4.4,20,1.5,9.9581,76.259
+Marine Drive,Kochi,"Nature, Relaxation",Waterfront promenade suitable for evening relaxation,4.3,0,1.5,9.9816,76.2765
+Jew Town,Kochi,"History, Culture, Shopping",Historic quarter with antique shops and cultural landmarks,4.4,0,2.0,9.957,76.2594
+Kerala Folklore Museum,Kochi,"Art, Culture, History","Museum showcasing Kerala architecture, art and cultural artifacts",4.5,100,2.0,9.9312,76.3028
+Hill Palace Museum,Kochi,"History, Art, Culture",Large heritage museum complex with royal collections,4.4,30,2.5,10.0057,76.3656
+Cherai Beach,Kochi,"Beach, Relaxation, Nature",Coastal destination suited for relaxation and sunset,4.3,0,3.0,10.1401,76.1784
+Chinese Fishing Nets,Kochi,"Culture, Photography, Food",Traditional fishing structures and a well-known waterfront sight,4.4,0,1.0,9.966,76.2415
+Marina Beach,Chennai,"Beach, Relaxation, Food","Long urban beach popular for walks, sunset and local snacks",4.4,0,2.0,13.05,80.2824
+Kapaleeshwarar Temple,Chennai,"Culture, History, Architecture",Historic temple known for Dravidian architecture,4.6,0,1.5,13.0339,80.2699
+Fort St George,Chennai,"History, Architecture",Historic fort complex with museums and colonial heritage,4.4,20,1.5,13.0797,80.2877
+Government Museum Chennai,Chennai,"History, Art, Science","Major museum with archaeological, artistic and scientific collections",4.5,100,2.5,13.0694,80.2574
+San Thome Basilica,Chennai,"History, Architecture, Culture",Historic basilica and religious landmark near the coast,4.5,0,1.0,13.0335,80.2784
+Guindy National Park,Chennai,"Nature, Family",Urban national park with wildlife and green spaces,4.3,20,2.5,13.0068,80.2206
+DakshinaChitra Museum,Chennai,"Culture, Architecture, Art",Open-air heritage museum showcasing South Indian traditions,4.5,250,3.0,12.8232,80.227
+Mylapore,Chennai,"Culture, Food, History","Historic neighborhood with temples, markets and local food",4.4,300,2.5,13.0338,80.2676
+Mysore Palace,Mysore,"History, Architecture",Grand royal palace known for architecture and illumination,4.7,200,2.5,12.3052,76.6552
+Brindavan Gardens,Mysore,"Nature, Family",Landscaped gardens with fountains and evening illumination,4.4,50,2.0,12.4244,76.5724
+Chamundeshwari Temple,Mysore,"Culture, Architecture, History",Historic hilltop temple overlooking Mysore,4.6,0,2.0,12.292,76.6737
+St Philomena's Cathedral,Mysore,"Architecture, History",Large neo-Gothic cathedral and architectural landmark,4.5,0,1.0,12.3236,76.6585
+Mysore Zoo,Mysore,"Nature, Family",Large zoological garden with diverse animal species,4.5,100,3.5,12.3021,76.6653
+Devaraja Market,Mysore,"Shopping, Culture, Food","Historic market known for flowers, spices and local products",4.3,300,2.0,12.3076,76.6546
+Karanji Lake,Mysore,"Nature, Relaxation, Family","Scenic lake with birdlife, walking areas and nature activities",4.4,50,2.0,12.2964,76.6802
+Railway Museum Mysore,Mysore,"History, Family",Museum featuring railway heritage and historic locomotives,4.3,50,1.5,12.3115,76.65
+Victoria Memorial,Kolkata,"History, Art, Architecture",Grand marble memorial and museum in central Kolkata,4.6,50,2.0,22.5448,88.3426
+Howrah Bridge,Kolkata,"Architecture, Culture",Iconic cantilever bridge and Kolkata landmark,4.5,0,1.0,22.5851,88.3468
+Indian Museum,Kolkata,"History, Art, Science","Large museum with historical, cultural and scientific collections",4.5,50,2.5,22.5576,88.35
+St Paul's Cathedral,Kolkata,"Architecture, History, Culture",Historic cathedral known for Gothic architecture,4.4,0,1.0,22.5447,88.3497
+Marble Palace,Kolkata,"History, Art, Architecture",Historic mansion with art collections and ornate interiors,4.3,0,1.5,22.5832,88.3671
+Science City Kolkata,Kolkata,"Science, Family, Education",Science center with interactive exhibits and educational attractions,4.4,100,3.0,22.5393,88.3958
+Prinsep Ghat,Kolkata,"Nature, Architecture, Relaxation",Riverside landmark suitable for walks and sunset views,4.5,0,1.5,22.5563,88.3292
+New Market,Kolkata,"Shopping, Food, Culture",Historic market area with shopping and local food,4.3,500,2.0,22.5601,88.352

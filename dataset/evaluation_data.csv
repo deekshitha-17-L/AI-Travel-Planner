@@ -1,0 +1,19 @@
+destination,interests,budget,days,expected_pois
+Bengaluru,"History, Culture",10000,3,Bangalore Palace;Tipu Sultan's Summer Palace;Vidhana Soudha
+Bengaluru,"Nature, Relaxation",5000,2,Lalbagh Botanical Garden;Cubbon Park;Ulsoor Lake
+Bengaluru,"Science, Family",6000,2,Visvesvaraya Industrial and Technological Museum;Bannerghatta Biological Park
+Hyderabad,"History, Culture",10000,3,Charminar;Golconda Fort;Chowmahalla Palace
+Hyderabad,"Nature, Family",8000,2,Hussain Sagar;Nehru Zoological Park
+Hyderabad,"Shopping, Culture",5000,2,Laad Bazaar;Charminar
+Jaipur,"History, Architecture",8000,3,Amber Fort;City Palace;Hawa Mahal
+Jaipur,"Science, History",5000,2,Jantar Mantar Jaipur;City Palace
+Goa,"Beach, Relaxation",10000,3,Baga Beach;Calangute Beach;Palolem Beach
+Goa,"History, Architecture",5000,2,Fort Aguada;Basilica of Bom Jesus;Chapora Fort
+Kochi,"History, Culture",6000,2,Fort Kochi;Mattancherry Palace;Jew Town
+Kochi,"Beach, Relaxation",5000,2,Cherai Beach;Marine Drive
+Chennai,"Culture, History",5000,2,Kapaleeshwarar Temple;Fort St George;San Thome Basilica
+Chennai,"Nature, Family",5000,2,Guindy National Park;DakshinaChitra Museum
+Mysore,"History, Architecture",5000,2,Mysore Palace;St Philomena's Cathedral
+Mysore,"Nature, Family",5000,2,Brindavan Gardens;Mysore Zoo;Karanji Lake
+Kolkata,"History, Architecture",6000,2,Victoria Memorial;Howrah Bridge;St Paul's Cathedral
+Kolkata,"Science, Family",5000,2,Science City Kolkata;Indian Museum
